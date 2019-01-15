@@ -159,6 +159,7 @@ module.exports = {
         'allowSingleLine': true
       }
     ],
-    'object-curly-spacing': [true, 'always']
+    'object-curly-spacing': [true, 'always'],
+    'no-nested-ternary': true
   }
 }
